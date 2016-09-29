@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dynamic_Views</string>
+    <string name="add_course_grades">Add Course Grades</string>
+    <string name="add_course">Add Course</string>
+    <string name="calculate_gpa">Calculate GPA</string>
+    <string name="gpa">GPA:</string>
+    <string name="removeButton">X</string>
+    <string name="promptMessage">Click Add Course To Begin</string>
+    <string name="unitValidation">Enter Valid Unit Values Before Calculating!!!</string>
+    <string-array name="grades_Array">
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
